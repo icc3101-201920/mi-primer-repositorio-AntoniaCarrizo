@@ -7,6 +7,7 @@ namespace Antoniaprueba
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Gatos");
         }
     }
 }
